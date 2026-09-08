@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="CobraSEC · Red Arsenal · cors-scan" width="100%">
+</p>
+
 # cors-scan
 
 Find **exploitable CORS misconfigurations** on a target you are authorised to test.
